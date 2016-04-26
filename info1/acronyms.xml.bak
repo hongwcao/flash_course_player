@@ -1,0 +1,190 @@
+<!-- 不支持重复的缩略语显示 -->
+<list>
+  <a>
+    <acronym>AAM</acronym>
+    <details></details>
+    <en></en>
+    <cn>自动驾驶仪作动筒监视。</cn>
+  </a>
+    <a>
+    <acronym>AC</acronym>
+    <details></details>
+    <en></en>
+    <cn>交流电。</cn>
+  </a>
+    <a>
+    <acronym>ACCEL</acronym>
+    <details></details>
+    <en></en>
+    <cn>加速</cn>
+  </a>
+    <a>
+    <acronym>ACTR</acronym>
+    <details></details>
+    <en></en>
+    <cn>作动筒。</cn>
+  </a>
+  <a>
+    <acronym>ACQ</acronym>
+    <details></details>
+    <en></en>
+    <cn>获得。</cn>
+  </a>
+  <a>
+    <acronym>ADIRS</acronym>
+    <details></details>
+    <en></en>
+    <cn>大气数据惯导基准系统。</cn>
+  </a>
+  <a>
+    <acronym>ADIRU</acronym>
+    <details></details>
+    <en></en>
+    <cn>大气数据惯导基准组件。</cn>
+  </a>
+  <a>
+    <acronym>ADR</acronym>
+    <details></details>
+    <en></en>
+    <cn>大气数据参考。</cn>
+  </a>
+  <a>
+    <acronym>AFCS</acronym>
+    <details></details>
+    <en></en>
+    <cn>自动飞行控制系统。</cn>
+  </a>
+  <a>
+    <acronym>AFDS</acronym>
+    <details></details>
+    <en></en>
+    <cn>自动监视仪飞行导向系统。</cn>
+  </a>
+  <a>
+    <acronym>AGS</acronym>
+    <details></details>
+    <en></en>
+    <cn>空中/地面系统。</cn>
+  </a>
+  <a>
+    <acronym>AI</acronym>
+    <details></details>
+    <en></en>
+    <cn>姿势指示器。</cn>
+  </a>
+  <a>
+    <acronym>ALT</acronym>
+    <details></details>
+    <en></en>
+    <cn>副翼。</cn>
+  </a>
+  <a>
+    <acronym>ALT</acronym>
+    <details></details>
+    <en></en>
+    <cn>高度。</cn>
+  </a>
+  <a>
+    <acronym>ALT</acronym>
+    <details></details>
+    <en></en>
+    <cn>备用。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+  <a>
+    <acronym>APU4</acronym>
+    <details>Auxiliary Power Unit</details>
+    <en>Auxiliary Power Unit</en>
+    <cn>辅助动力装置，文章摘要: 当代大型喷气式客机的机载辅助动力装置（APU）是飞机中一个重要系统,为了提高飞机维修的经济性、减少延误,开发出了APU状态监控和故障诊断系统。</cn>
+  </a>
+
+</list>

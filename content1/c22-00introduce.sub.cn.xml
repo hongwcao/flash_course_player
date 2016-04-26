@@ -1,0 +1,26 @@
+﻿<!-- key定义当前字幕所对应的播放内容，label 定义时间帧上的标签，type 定义为两中 normal标准字幕覆盖模式，join为字幕添加模式。字幕的汉字不超过70个汉字，英文不超过140个。
+	 -->
+<root key=''>
+   <section label='A001' type='normal' >
+      ATA22 自动飞行。
+   </section>
+   <section label='A002' type='join' >
+      在本单元中学习目标有：
+   </section>
+   <section label='A003' type='normal' >
+      掌握自动飞行的基本原理、指示及控制、部件及位置。我们主要学习的分子系统包括：
+   </section>
+   <section label='A004' type='normal' >
+      数字飞行控制系统、
+   </section>
+   <section label='A005' type='join' >
+      偏航阻尼系统、
+   </section>
+   <section label='A006' type='join' >
+      自动油门系统。
+   </section>
+   <section label='A007' type='normal' >
+      本章节需要学习的目标已经明确，请点击右下角的下一页开始课程的学习。
+   </section>
+
+</root>

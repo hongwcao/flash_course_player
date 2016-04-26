@@ -1,0 +1,15 @@
+<!-- code 定义媒体的类型， url定义媒体的文件名，注意文件名称不带后缀，后缀由默认的code类型来定义，
+     文件的中文版本及英文版本由文件名及后缀之间添加语言变量，
+	 例如 introduction.swf 定义为中文 introduction.cn.swf 英文 introduction.en.swf 
+	 key值为键值，用于唯一识别不同的课件最小单元。要求在本xml文件中必须唯一，建议key值为32位长度的随机字符串
+	 path值，可以为内容指定相对路径。
+	 -->
+<root label='空调' >
+   <chapter label='空气分配不' label_en='Chapter One'>     
+		    <section label='第一节 k01' label_en='Section One'>
+		     <item label='简介' label_en='Flight Alititude' code='swf' url='c21-20k01sco01' key='{80520623-EC0F-4032-918B-5E6E9B7EAB64}' path=''/>
+		     <item label='组成与系统原理' label_en='Flight Alititude' code='swf' url='c21-20k01sco02' key='{A1545F6C-68E1-4A7E-B881-11FF47CBADE4}' path=''/>
+		     <item label='控制面板' label_en='Flight Alititude' code='swf' url='c21-20k01sco03' key='{2E78C114-291C-41DB-AB48-2B15AD86EBDC}' path=''/>
+		     </section>
+		</chapter>
+</root>

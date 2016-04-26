@@ -1,0 +1,20 @@
+﻿package com.skynetsoft.events {
+	import flash.events.Event;
+	public class CategoryTitleRefreshEvent extends Event {
+        public static const ON_REFRESH:String ="category_title_refresh"; 
+		private var _titleText:String;
+		public function getTitleText():String{
+			  return _titleText
+			}
+		public function setTitleText(ob:String){
+			  _titleText = ob;
+			}	
+		public function CategoryTitleRefreshEvent(eventType:String) {
+			super(eventType);
+			// constructor code
+		}
+		
+
+	}
+	
+}

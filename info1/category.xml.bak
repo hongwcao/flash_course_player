@@ -1,0 +1,33 @@
+<!-- code 定义媒体的类型， url定义媒体的文件名，注意文件名称不带后缀，后缀由默认的code类型来定义，
+     文件的中文版本及英文版本由文件名及后缀之间添加语言变量，
+	 例如 introduction.swf 定义为中文 introduction.cn.swf 英文 introduction.en.swf 
+	 key值为键值，用于唯一识别不同的课件最小单元。要求在本xml文件中必须唯一，建议key值为32位长度的随机字符串
+	 path值，可以为内容指定相对路径。
+	 -->
+<root label='Root' >
+   <chapter label='第一章' label_en='Chapter One'>
+      <section label='第一节' label_en='Section One'>
+          <section label='飞行高度'  label_en='Flight Alititude'>
+		     <item label='测试第一节' label_en='Flight Alititude' code='swf' url='c22-11K02sco01' key='{3591C025-4E67-4138-9252-741B99DDD101}' path='' />
+			 <item label='气压高度' label_en='Flight Alititude' code='swf' url='page2' key='{3591C025-4E67-4138-9252-741B99DDD105}' path=''/>
+			 <item label='气压高度1' label_en='Flight Alititude1' code='swf' url='introduction' key='{760687A5-3935-4F9F-92F6-794A1C545C93}' path='' />
+             <section label='无线电高度' label_en='Radio Altitude' > 
+			    <item label='英尺' label_en='inch' code='swf' url='page3' key='{C412F9D1-8E67-4D7D-B98F-B5FA0418B021}' path='' />
+				<item label='第四页' label_en='page 4' code='swf' url='page4' key='{C412F9D1-8E67-4D7D-B98F-B5FA0418B022}' path='' />
+				<item label='第五页' label_en='page 5' code='swf' url='page5' key='{C412F9D1-8E67-4D7D-B98F-B5FA0418B023}' path='' />
+				<item label='第六页' label_en='page 6' code='swf' url='page6' key='{C412F9D1-8E67-4D7D-B98F-B5FA0418B024}' path='' />
+				<item label='第七页' label_en='page 7' code='swf' url='page7' key='{C412F9D1-8E67-4D7D-B98F-B5FA0418B025}' path='' />
+			 </section>
+	      </section>
+      </section>
+      <!-- <item label='第二节' code='swf' url='page4' key='{607B70CD-3933-4CD6-AADD-99476D73CF03}' path='' /> -->
+   </chapter>
+   <chapter label='第二章' label_en='' >
+	  <section label='第一节' label_en='' />
+	  <section label='第二节' label_en='' />
+    </chapter>
+   <chapter label='第三章' label_en='' >
+	  <section label='第一节' label_en='' />
+	  <section label='第二节' label_en='' />
+   </chapter>
+</root>

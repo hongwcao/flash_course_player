@@ -1,0 +1,13 @@
+<!-- key定义当前字幕所对应的播放内容，label 定义时间帧上的标签，type 定义为两中 normal标准字幕覆盖模式，join为字幕添加模式。字幕的汉字不超过70个汉字，英文不超过140个。
+	 -->
+<root key=''>
+   <section label='A001' type='normal' >
+      第一段测试文字
+   </section>
+   <section label='A002' type='normal'>
+      这是一个美丽的城市
+   </section>
+   <section label='A003' type='join'>                   
+      是上海吗？
+   </section>
+</root>

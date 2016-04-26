@@ -1,0 +1,46 @@
+﻿<!-- key定义当前字幕所对应的播放内容，label 定义时间帧上的标签，type 定义为两中 normal标准字幕覆盖模式，join为字幕添加模式。字幕的汉字不超过70个汉字，英文不超过140个。
+	 -->
+<root key=''>
+   <section label='A001' type='normal' >
+     分配系统有以下子系统: 
+   </section> 
+   <section label='A002' type='normal' >
+     主空气分配 
+   </section> 
+   <section label='A003' type='normal' >
+     混合总管从，PACK组件，地面空气接头以及再循环系统获得空气。 
+   </section> 
+   <section label='A004' type='normal' >
+      来个各个气源的空气在混合总管混合，通过分配总管输送到各个区域。 
+   </section> 
+   <section label='A005' type='normal' >
+     驾驶舱调节空气分配 
+   </section> 
+   <section label='A006' type='normal' >
+     驾驶舱从左侧Pack组件和混合总管获得已调节的空气。 空气流经飞机左侧的导管进入驾驶舱，并由驾驶舱内的面板开关控制各个站位出口的气流。  
+   </section> 
+   <section label='A007' type='normal' >
+     客舱调节空气分配 
+   </section> 
+   <section label='A008' type='normal' >
+     客舱区域的空调气由右侧Pack组件通过混合总管提供。，空气通过立管和上方侧壁流入头顶分配导管。 沿侧壁边缘和顶板中央的出口将空气分开均匀供气。 
+   </section> 
+   <section label='A009' type='normal' >
+     再循环系统 
+   </section> 
+   <section label='A010' type='normal' >
+     再循环系统使用风扇使客舱空气进入主分配总管。 减少pack组件所需供气量。 
+   </section> 
+   <section label='A011' type='normal' >
+     通风系统 
+   </section> 
+   <section label='A012' type='normal' >
+     通风系统使用压差将空气抽出飞机外。 空气从客舱厨房和盥洗室区域流经机外通风孔。 
+   </section> 
+   <section label='A013' type='normal' >
+     设备冷却系统 
+   </section> 
+   <section label='A014' type='normal' >
+     设备冷却系统为EE舱和驾驶舱内的设备降温。 
+   </section> 
+</root>

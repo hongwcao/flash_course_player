@@ -1,0 +1,22 @@
+﻿<!-- key定义当前字幕所对应的播放内容，label 定义时间帧上的标签，type 定义为两中 normal标准字幕覆盖模式，join为字幕添加模式。字幕的汉字不超过70个汉字，英文不超过140个。
+	 -->
+<root key=''>
+   <section label='A001' type='normal' >
+    空调分配系统控制器在驾驶舱空调/引气控制面板 P5-10 上。
+   </section>
+   <section label='A002' type='join'>
+    学员，请您在顶部板上选择引气控制面板的位置。            
+   </section> 
+   <section label='A003' type='join'>
+   	您选择的很正确。
+   </section>
+   <section label='A004' type='normal'>
+   现在请您移动再循环风扇电门到自动位置；
+   </section>
+   <section label='A005' type='join'> 
+   	您操作的很正确。
+   </section>
+   <section label='A006' type='normal'>
+   当再循环风扇电门移动到自动位置时，再循环风扇启用。 再循环风扇运行取决于空调组件的操作。
+   </section>
+</root>

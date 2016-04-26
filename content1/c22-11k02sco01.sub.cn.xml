@@ -1,0 +1,34 @@
+﻿<!-- key定义当前字幕所对应的播放内容，label 定义时间帧上的标签，type 定义为两中 normal标准字幕覆盖模式，join为字幕添加模式。字幕的汉字不超过70个汉字，英文不超过140个。
+	 -->
+<root key=''>
+   <section label='A001' type='normal' >
+     模式控制板MCP用于飞行机组与数字式飞行控制系统人机对话的界面，位于驾驶舱P7遮光罩上。
+   </section>
+   <section label='A002' type='normal'>
+    MCP包括以下按钮和显示器：
+   </section> 
+   <section label='A003' type='normal'>
+      航道选择器：1号和2号航道选择器选择仪表着陆系统(ILS)航向或甚高频全向信标台(VOR)航向。选择器 1是用于机长一侧。选择器 2是用于副驾驶一侧。
+   </section> 
+   <section label='A004' type='normal'>
+    航道显示器：显示你所选择的VOR或ILS航向。显示器范围从 000-359度。
+   </section> 
+   <section label='A005' type='normal'>
+    自动驾驶仪（A/P）接通电门：有四个A/P接通电门。两个电门用于FCC A ，两个用于FCC B。电门将自动驾驶仪接通至指令(CMD)或操纵轮转向(CWS)状态。
+   </section> 
+   <section label='A006' type='normal'>
+    电门为按钮/灯型电门。接通前提条件满足, A/P 接通且按压电门时电门灯亮。接通前提条件不满足, A/P不会接通且按电门后电门灯不会亮。接通 A/P后, 一些状况必须保持正常否则自动驾驶仪将断开。
+   </section> 
+   <section label='A007' type='normal'>
+    A/P脱开手柄将A/P断开手柄向下压时断开 A/P，A/P接通灯熄灭，请按压A/P脱开手柄。
+   </section> 
+   <section label='A008' type='normal'>
+    以下是模式选择电门，包括:• 自动油门 N1、• 自动油门速度、• 高度层改变LVL CHG、• 航向选择HDG SEL、• 进场APP、• VNAV垂直导航、• LNAV横向导航、• 航向信标VOR LOC、• 高度保持ALT HLD、• 垂直速度V/S。
+   </section> 
+   <section label='A009' type='normal'>
+    模式选择电门都是灯式按钮，按压选择该模式，灯亮， 请接通垂直导航模式。
+   </section> 
+   <section label='A010' type='normal'>
+    再次按压灯灭，模式断开。
+   </section> 
+</root>

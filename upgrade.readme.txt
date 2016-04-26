@@ -1,0 +1,29 @@
+version 4.0.0423   2013/12/24 曹宏炜
+修改课件网络版支持背景为纯黑色
+
+version 4.0.0422   2013/12/19 曹宏炜
+新增框架标题的现实功能
+
+version 4.0.0420   2013/4/20  曹宏炜
+增加字幕打开及关闭功能，在配置对话框中可以找到控制按钮
+增加课件控制播放进度条打开及关闭功能，客户端课件时间轴上需加入以下代码实现对进度条的强制显示和隐藏
+//打开进度条
+import com.skynetsoft.events.ProgressBarEnableEvent;
+dispatchEvent(new ProgressBarEnableEvent(ProgressBarEnableEvent.ENABLE));
+//关闭进度条
+import com.skynetsoft.events.ProgressBarEnableEvent;
+dispatchEvent(new ProgressBarEnableEvent(ProgressBarEnableEvent.DISABLE));
+
+
+version 4.0.0419   2013/4/17  曹宏炜
+修改了版本升级规则，目前主版本为4 
+取消强制第一页的课件名称为introduction.[lang].swf的规定，此版本后第一页的课件名称可以随意定义在category.xml文件中;
+进度条与载入课件之间的层叠问题解决；
+
+
+version 1.0.415   12:21 2013/4/15   曹宏炜
+增加课件跳转及课件暂停、继续播放的功能，详细参见中文版的课件introductions.cn.fla文件，另外注意不管是中文课件还是英文课件，或是语音文件，必须有单独的一层label层来表示标签，并建议该层不与其他层产生交织情况；
+课件需导入2个单独的事件类，分别是com.skynetsoft.events.FrameLabelEvent 和 com.skynetsoft.LoaderEvent；
+开发用户可以在 file->actionscript设置中添加对该代码的引用；
+
+
